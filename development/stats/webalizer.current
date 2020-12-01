@@ -1,0 +1,766 @@
+# Webalizer V2.23-08 Incremental Data - 11/28/2019 19:58:50
+2019 11 28 19 58 50
+91345 79660 60 138 47 39 942892050 60837 415 0 0 0
+8 1298 4629 1 28
+31 26 122999 3 24 8 0 0
+143 128 1147512 5 51 6 0 0
+0 0 0 0 0 0 0 0
+395 336 2794111 4 169 8 0 0
+140 115 604104 4 86 7 0 0
+563 454 3597799 7 276 12 0 0
+212 174 1274975 3 89 8 0 0
+801 754 1848751 9 727 16 0 0
+304 253 466592 8 239 11 0 0
+0 0 0 0 0 0 0 0
+6999 4422 21354093 11 3037 29 0 0
+2962 2214 9735796 6 1498 9 0 0
+4864 3763 12244981 10 3066 22 0 0
+3666 2857 15856701 9 2226 17 0 0
+6368 5879 471204151 10 2344 24 0 0
+2179 942 8149834 10 558 22 0 0
+50 41 403825 3 31 6 0 0
+2650 2425 18144299 12 2109 16 0 0
+4315 4062 23837772 7 3638 12 0 0
+16460 16170 79329661 6 13552 19 0 0
+4591 4226 35136069 9 2926 11 0 0
+2317 2188 21670589 6 1778 12 0 0
+4291 3857 45228909 9 2991 20 0 0
+616 566 4051773 9 446 22 0 0
+3176 2955 22730818 11 2537 20 0 0
+6632 6258 47801227 10 4588 25 0 0
+5803 5358 31293004 15 5038 27 0 0
+10817 9237 62861705 8 6813 26 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+254 213 3619818 86 0 0
+43 34 261260 12 0 0
+129 106 451918 84 0 0
+142 130 1457254 45 0 0
+105 89 954020 53 0 0
+48 43 243735 11 0 0
+164 155 444465 152 0 0
+242 233 967299 209 0 0
+0 0 0 0 0 0
+46 38 385671 28 0 0
+487 472 1549242 409 0 0
+653 595 4531009 377 0 0
+5461 4785 37961154 3044 0 0
+8263 7290 53496803 6285 0 0
+7028 5835 43817265 4905 0 0
+10261 9490 421341630 5290 0 0
+9467 8332 144880401 6358 0 0
+13735 11298 76332149 8963 0 0
+13600 11199 55777925 9019 0 0
+13345 12257 54335043 10294 0 0
+6236 5564 33312999 3885 0 0
+1373 1290 5819257 1135 0 0
+263 212 951733 193 0 0
+0 0 0 0 0 0
+0
+0
+0
+79660
+0
+0
+0
+0
+0
+4
+0
+14
+730
+0
+441
+0
+0
+0
+0
+0
+5
+10021
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+470
+0
+0
+0
+0
+0
+# -urls- 
+/assets/img/logo-light.svg
+0 62 0 157479 0 0 0 0
+/assets/img/favicon_152x152.png
+1 51 0 225012 0 0 0 0
+/register.php
+0 4 0 27810 0 0 0 0
+/draganddropimage/dropzone/dist/dropzone.css
+0 6 0 12324 0 0 0 0
+/jaxtyres/
+0 679 0 9324606 23 2 0 0
+/assets/img/photos/menu-title-burgers.jpg
+1 51 0 4215376 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/so_megamenu.css
+0 133 0 429324 0 0 0 0
+/jaxtyres/jax_order_success.php
+0 6 0 6018 1 0 0 0
+/manager/assets/img/apple-icon.png
+1 284 0 762824 0 0 0 0
+/manager/not_allowed.php
+0 24 0 37115 0 1 0 0
+/jaxtyres/sliderCss/multislider.min.js
+0 43 0 71165 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery-2.2.4.min.js.download
+0 67 0 2018107 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/application.js.download
+0 67 0 348668 0 0 0 0
+/manager/assets/css/paper-dashboard.css
+0 1366 0 27957922 0 0 0 0
+/manager/server_action_hotel.php
+0 15966 0 22604649 13 43 0 0
+/jaxtyres/my_profile.php
+0 18 0 147869 1 1 0 0
+/assets/plugins/jquery/dist/jquery.min.js
+0 205 0 6241430 0 0 0 0
+/manager/assets/js/paper-dashboard.min.js
+0 407 0 771265 0 0 0 0
+/login.php
+0 31 0 207315 2 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery.miniColors.min.js.download
+0 65 0 250640 0 0 0 0
+/manager/assets/demo/demo.js
+0 362 0 822826 0 0 0 0
+/ajax.php
+0 1594 0 1626298 52 59 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery.unveil.js.download
+0 66 0 67518 0 0 0 0
+/assets/img/logo-dark.png
+1 13 0 429637 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/pe-icon-7-stroke.css
+0 132 0 279972 0 0 0 0
+/assets/fonts/themify9f24.woff
+0 48 0 2424246 0 0 0 0
+/manager/assets/demo/demo.css
+0 1231 0 1548598 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/owl.carousel.css
+0 150 0 214200 0 0 0 0
+/assets/img/logo-horizontal-dark.svg
+0 61 0 139418 0 0 0 0
+/jaxtyres/jax_view_cart.php
+0 159 0 825769 2 1 0 0
+/jaxtyres/sliderCss/custom.css
+0 75 0 58472 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery.countdown.min.js.download
+0 66 0 169686 0 0 0 0
+/assets/img/photos/bg-restaurant.jpg
+1 4 0 1016795 0 0 0 0
+/manager/membership.php
+0 331 0 1357961 1 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/toppanel.js.download
+0 65 0 49660 0 0 0 0
+/draganddropimage/getImage.php
+0 7 0 2086 1 2 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/home2.css
+0 135 0 5450964 0 0 0 0
+/jaxtyres/my_orders.php
+0 32 0 222466 1 1 0 0
+/manager/order_dashboard.php
+0 304 0 3110732 0 0 0 0
+/jaxtyres/ajax_autopart.php
+0 6626 0 4631408 14 39 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/responsive.css
+0 133 0 2253818 0 0 0 0
+/invoice.php
+0 8 0 53379 3 3 0 0
+/assets/plugins/slick-carousel/slick/slick.css
+0 79 0 66913 0 0 0 0
+/jaxtyres/banner/EricksenHonda_Z8-set-special_19-500x707.jpg
+1 820 0 78218732 0 0 0 0
+/draganddropimage/dropzone/dist/dropzone.js
+0 5 0 72575 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/lib.css
+0 144 0 353376 0 0 0 0
+/draganddropimage/
+0 5 0 4125 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/modernizr-2.6.2.min.js.download
+0 65 0 419965 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/moment.js.download
+0 65 0 1417065 0 0 0 0
+/assets/img/photos/modal-review.jpg
+1 4 0 38038 0 0 0 0
+/manager/assets/js/plugins/chartjs.min.js
+0 1002 0 46925355 0 0 0 0
+/assets/plugins/tether/dist/js/tether.min.js
+0 56 0 438200 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/footer2.css
+0 136 0 341496 0 0 0 0
+/jaxtyres/item_special.php
+0 301 0 1404953 11 2 0 0
+/jaxtyres/order_success.php
+0 8 0 11408 0 0 0 0
+/manager/assets/img/favicon.png
+1 247 0 738381 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/lightslider.js.download
+0 65 0 478465 0 0 0 0
+/manager/dashboard.php
+0 1374 0 12573639 46 6 0 0
+/manager/assets/js/core/bootstrap.min.js
+0 1157 0 16611049 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/bootstrap.min.js.download
+0 69 0 610443 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/css
+0 135 0 561011 2 1 0 0
+/manager/assets/css/bootstrap.min.css.map
+0 1198 0 110337382 0 0 0 0
+/jaxtyres/banner/TEYSEER TYRE CAMPAIGN ENG.jpg
+1 850 0 223436456 0 0 0 0
+/jaxtyres/banner/cartyre.jpg
+1 1 0 63771 0 0 0 0
+/assets/plugins/slick-carousel/slick/slick.min.js
+0 57 0 597189 0 0 0 0
+/jaxtyres/view_Cart.php
+0 8 0 44066 1 1 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/bootstrap-datetimepicker.min.css
+0 156 0 213096 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/addtocart.js.download
+0 68 0 60248 0 0 0 0
+/manager/assets/css/bootstrap.min.css
+0 1496 0 31987472 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/header2.css
+0 136 0 463352 0 0 0 0
+/assets/plugins/animsition/dist/css/animsition.min.css
+0 63 0 159957 0 0 0 0
+/assets/plugins/jquery.localscroll/jquery.localScroll.min.js
+0 47 0 52264 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/bootstrap-datetimepicker.min.js.download
+0 67 0 449905 0 0 0 0
+/manager/assets/js/plugins/bootstrap-notify.js
+0 361 0 1610782 0 0 0 0
+/profile_detail.php
+0 15 0 102756 1 2 0 0
+/manager/assets/js/core/jquery.min.js
+0 1172 0 35682712 0 0 0 0
+/view_cart.php
+0 41 0 307265 1 2 0 0
+/jaxtyres/assets/1800x800__0006_Parts-Banner-3.jpg
+1 43 0 1644299 0 0 0 0
+/manager/export_excel.php
+0 7 0 2901 0 0 0 0
+/jaxtyres/getdata/server_action.php
+0 1834 0 1788275 8 10 0 0
+/jaxtyres/ajax_getspecial.php
+0 144 0 51151 1 2 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery-ui.min.js.download
+0 65 0 1706120 0 0 0 0
+/assets/plugins/jquery.mb.ytplayer/dist/jquery.mb.YTPlayer.min.js
+0 48 0 597072 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/owl.carousel.js.download
+0 68 0 1270036 0 0 0 0
+/assets/plugins/twitter-fetcher/js/twitterFetcher_min.js
+0 49 0 135142 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery.dcjqaccordion.2.8.min.js.download
+0 66 0 89430 0 0 0 0
+/assets/css/themify-icons.css
+0 64 0 209088 0 0 0 0
+/jaxtyres/autoparts_view_cart.php
+0 113 0 1209988 0 0 0 0
+/jaxtyres/login.php
+0 38 0 308065 6 1 0 0
+/order_history.php
+0 31 0 184657 1 1 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/so-newletter-popup.css
+0 133 0 168112 0 0 0 0
+/assets/plugins/jquery.appear/jquery.appear.js
+0 52 0 91988 0 0 0 0
+/assets/js/core.js
+0 49 0 244853 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/slick.js.download
+0 67 0 983158 0 0 0 0
+/jaxtyres/banner/FLKN-.jpg
+1 3 0 113931 0 0 0 0
+/assets/plugins/jquery-validation/dist/jquery.validate.min.js
+0 48 0 372096 0 0 0 0
+/manager/ajax.php
+0 24733 0 28168731 72 81 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/bootstrap.min.css
+0 197 0 3974869 0 0 0 0
+/assets/plugins/animate.css/animate.min.css
+0 68 0 288728 0 0 0 0
+/assets/plugins/bootstrap/dist/css/bootstrap.min.css
+0 100 0 2032400 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/so_searchpro.css
+0 135 0 127170 0 0 0 0
+/assets/plugins/jquery.scrollto/jquery.scrollTo.min.js
+0 47 0 75294 0 0 0 0
+/assets/img/favicon.png
+1 61 0 78858 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/libs.js.download
+0 67 0 1042252 0 0 0 0
+/assets/img/photos/dropdown-about.jpg
+1 60 0 2461407 0 0 0 0
+/assets/plugins/font-awesome/css/font-awesome.min.css
+0 63 0 463239 0 0 0 0
+/assets/plugins/bootstrap/dist/js/bootstrap.min.js
+0 55 0 678590 0 0 0 0
+/manager/server_action _hotel.php
+0 2 0 730 1 1 0 0
+/assets/plugins/animsition/dist/js/animsition.min.js
+0 50 0 114100 0 0 0 0
+/
+0 232 0 2530554 50 17 0 0
+/jaxtyres/ajax.php
+0 1230 0 685658 6 8 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/miniColors.css
+0 137 0 191252 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/jquery-ui.min.css
+0 143 0 178750 0 0 0 0
+/book_event.php
+0 5 0 41342 1 0 0 0
+/draganddropimage/gallery/1573632488Engraving.png
+1 1 0 264192 0 0 0 0
+/jaxtyres/order_submitted.php
+0 19 0 103373 1 1 0 0
+/jaxtyres/banner/michelin-promotion_1024x1024.jpg
+1 850 0 127439805 0 0 0 0
+/manager/reports.php
+0 314 0 1711522 2 3 0 0
+/manager/assets/fonts/nucleo-icons.woff2
+0 165 0 2640032 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/so-categories.css
+0 133 0 275842 0 0 0 0
+/manager/assets/js/core/popper.min.js
+0 385 0 2746205 0 0 0 0
+/manager/pricing.php
+0 94 0 322704 3 1 0 0
+/manager/assets/js/plugins/perfect-scrollbar.jquery.min.js
+0 368 0 2507552 0 0 0 0
+/jaxtyres/banner/MICHELIN_REBATE_PROMO_1024x1024.jpg
+1 850 0 35852133 0 0 0 0
+/manager/sale_register.php
+0 667 0 2231943 6 4 0 0
+/assets/plugins/font-awesome/fonts/fontawesome-webfont3e6e.woff2
+0 54 0 3822192 0 0 0 0
+/assets/css/themes/theme-beige.min.css
+0 59 0 875029 0 0 0 0
+/manager/kitchen2.php
+0 1700 0 4721007 6 8 0 0
+/manager/assets/img/logo-small.png
+1 456 0 16041759 0 0 0 0
+/manager/login.php
+0 332 0 716658 4 5 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/homepage.js.download
+0 65 0 380250 0 0 0 0
+/manager/
+0 224 0 469330 17 6 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/font-awesome.min.css
+0 192 0 1410240 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/so_megamenu.js.download
+0 65 0 126100 0 0 0 0
+/order_success.php
+0 9 0 41113 1 0 0 0
+/draganddropimage/gallery/1573633091tf.png
+1 1 0 2283 0 0 0 0
+/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/so-listing-tabs.css
+0 134 0 421698 0 0 0 0
+/assets/plugins/skrollr/dist/skrollr.min.js
+0 51 0 298095 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.39.235.175
+0 26 25 356658 1 1572663857 0 0
+/
+159.203.81.93
+0 27 14 88841 18 1574525834 0 0
+/ajax.php
+27.56.229.9
+0 1 1 13611 1 1573505954 0 0
+/jaxtyres/
+27.5.2.184
+0 1005 790 6089625 3 1573505941 0 0
+/jaxtyres/ajax_autopart.php
+107.170.96.6
+0 25 16 57520 17 1574881612 0 0
+-
+1.144.105.123
+0 35 34 498930 1 1573058024 0 0
+/ajax.php
+64.233.173.167
+0 80 70 1118478 4 1574855701 0 0
+/manager/dashboard.php
+1.136.104.115
+0 24 24 78095 1 1574491414 0 0
+/manager/ajax.php
+157.39.182.102
+0 35 33 28459 1 1574172996 0 0
+/manager/ajax.php
+66.249.82.98
+0 7 7 40720 0 0 0 0
+-
+106.207.214.5
+0 1 1 8323 1 1573647097 0 0
+/jaxtyres/login.php
+1.129.110.150
+0 45 40 241204 1 1573708580 0 0
+/jaxtyres/ajax_autopart.php
+61.69.164.199
+0 37 33 379595 3 1574448581 0 0
+/manager/ajax.php
+157.39.5.186
+0 23 22 169784 1 1574108426 0 0
+/manager/ajax.php
+27.7.252.91
+0 332 273 5085920 2 1574901045 0 0
+/manager/login.php
+27.56.214.165
+0 1 1 1841 1 1573229955 0 0
+/jaxtyres/item_special.php
+27.56.198.100
+0 31 22 167917 1 1572916224 0 0
+/ajax.php
+120.88.148.138
+0 204 191 1561583 4 1574943892 0 0
+/manager/
+159.203.42.143
+0 26 11 30470 20 1574963593 0 0
+-
+124.184.81.142
+0 109 102 988394 3 1574173403 0 0
+/manager/ajax.php
+27.56.207.82
+0 23 18 232063 1 1574547803 0 0
+/manager/sale_register.php
+64.233.173.162
+0 70 59 733469 5 1574855543 0 0
+/login.php
+157.39.99.132
+0 16 14 118720 1 1574108426 0 0
+/manager/ajax.php
+125.99.163.172
+0 257 211 426585 2 1573322421 0 0
+/jaxtyres/ajax.php
+106.207.239.248
+0 2 1 14909 1 1573669620 0 0
+/jaxtyres/
+210.50.10.102
+0 41 38 334111 2 1574433251 0 0
+/manager/ajax.php
+66.102.8.226
+0 1 1 2167 1 1574855877 0 0
+/manager/
+125.99.161.127
+0 675 505 3201236 4 1573674303 0 0
+/jaxtyres/ajax_autopart.php
+27.56.208.121
+0 2 1 53611 1 1573824777 0 0
+/manager/
+66.249.82.103
+0 8 7 192364 0 0 0 0
+-
+27.255.216.226
+0 56 53 362465 1 1574110439 0 0
+/manager/ajax.php
+27.57.206.41
+0 1 1 2536 1 1573302789 0 0
+/jaxtyres/item_special.php
+1.129.104.134
+0 102 94 1291370 1 1574353609 0 0
+/manager/ajax.php
+66.102.8.230
+0 1 0 57319 1 1574855877 0 0
+/manager/dashboard.php
+27.56.218.147
+0 2 1 13561 1 1574787492 0 0
+/manager/
+27.56.205.139
+0 151 108 373338 2 1574722183 0 0
+/manager/pricing.php
+106.207.238.119
+0 57 42 123800 1 1572922024 0 0
+/ajax.php
+49.178.1.92
+0 2 1 2458 1 1574094926 0 0
+/manager/
+220.233.85.176
+0 2674 2351 20738484 60 1574962232 0 0
+/manager/login.php
+49.178.44.206
+0 3 2 12620 1 1574605579 0 0
+/
+162.243.69.215
+0 22 9 29517 15 1574944283 0 0
+/manager/ajax.php
+180.214.143.120
+0 1 1 593 1 1574887036 0 0
+/manager/ajax.php
+91.121.121.43
+0 39696 39457 48234810 126 1574971129 0 0
+/manager/ajax.php
+175.35.24.72
+0 28 27 106273 1 1574786750 0 0
+/manager/ajax.php
+138.197.202.197
+0 21 6 88601 14 1574863323 0 0
+/manager/order_dashboard.php
+27.7.248.151
+0 33190 27083 803681701 25 1574971129 0 0
+/manager/kitchen2.php
+157.39.173.158
+0 7 4 28196 2 1574270786 0 0
+/manager/
+27.7.247.180
+0 56 45 708934 3 1574708354 0 0
+/manager/ajax.php
+159.203.196.79
+0 21 6 65144 18 1574859701 0 0
+-
+157.39.194.50
+0 36 31 311918 1 1574100406 0 0
+/manager/ajax.php
+27.7.255.142
+0 107 75 911506 4 1573926966 0 0
+/
+124.253.236.29
+0 1 1 3001 0 0 0 0
+-
+144.138.114.21
+0 19 18 29341 1 1573113365 0 0
+/ajax.php
+1.143.88.185
+0 2 2 1604 1 1574354947 0 0
+/manager/ajax.php
+64.233.173.165
+0 69 55 751715 5 1574855662 0 0
+/manager/dashboard.php
+27.7.255.38
+0 11460 7267 39381920 20 1573678484 0 0
+/jaxtyres/ajax_autopart.php
+49.178.7.14
+0 51 50 506725 1 1573930752 0 0
+/ajax.php
+27.56.197.163
+0 125 106 628090 3 1574624017 0 0
+/manager/login.php
+124.253.232.211
+0 198 186 1855757 1 1574860480 0 0
+/manager/ajax.php
+66.249.82.101
+0 17 17 273550 1 1574605217 0 0
+/ajax.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+27.7.252.91
+0 219 181 3566491 1 1574901045 0 0
+/manager/login.php
+120.88.148.138
+0 7 3 71902 2 1574943892 0 0
+/manager/
+159.203.42.143
+0 1 0 369 1 1574963593 0 0
+-
+220.233.85.176
+0 93 80 376600 3 1574962232 0 0
+/manager/login.php
+162.243.69.215
+0 1 1 394 1 1574944283 0 0
+/manager/ajax.php
+91.121.121.43
+0 5618 5559 5624333 15 1574971129 0 0
+/manager/ajax.php
+27.7.248.151
+0 4877 3412 53218615 3 1574971129 0 0
+/manager/kitchen2.php
+124.253.236.29
+0 1 1 3001 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://hotel.staffstarr.com/order_success.php
+0 33
+http://hotel.staffstarr.com/jaxtyres/jax_order_success.php
+0 25
+http://hotel.staffstarr.com/manager/login.php
+0 652
+http://hotel.staffstarr.com/manager/assets/css/paper-dashboard.css
+0 159
+http://hotel.staffstarr.com/jaxtyres/order_submitted.php
+0 98
+http://hotel.staffstarr.com/index.php
+0 546
+http://hotel.staffstarr.com/manager/reports.php
+0 617
+http://hotel.staffstarr.com/manager/
+0 99
+http://hotel.staffstarr.com/
+0 1607
+http://hotel.staffstarr.com/jaxtyres/order_success.php
+0 67
+http://hotel.staffstarr.com/manager/dashboard.php
+0 6652
+http://hotel.staffstarr.com/manager/not_allowed.php
+0 23
+http://hotel.staffstarr.com/manager/pricing.php
+0 650
+http://hotel.staffstarr.com/manager/kitchen2.php
+0 4660
+http://hotel.staffstarr.com/invoice.php
+0 1
+http://hotel.staffstarr.com/login.php
+0 151
+- (Direct Request)
+0 50005
+http://hotel.staffstarr.com/jaxtyres/item_special.php
+0 1895
+http://hotel.staffstarr.com/index.php/kitchen.php
+0 27
+http://hotel.staffstarr.com/jaxtyres/view_Cart.php
+0 57
+http://hotel.staffstarr.com/manager/order_dashboard
+0 1
+http://hotel.staffstarr.com/jaxtyres/my_profile.php
+0 145
+http://hotel.staffstarr.com/manager/dashboard.html
+0 1
+http://hotel.staffstarr.com/assets/css/themify-icons.css
+0 47
+http://hotel.staffstarr.com/view_cart.php
+0 189
+http://hotel.staffstarr.com/jaxtyres/jax_view_cart.php
+0 1080
+http://hotel.staffstarr.com/jaxtyres/
+0 8048
+http://hotel.staffstarr.com/assets/plugins/font-awesome/css/font-awesome.min.css
+0 53
+http://hotel.staffstarr.com/draganddropimage
+0 2
+http://hotel.staffstarr.com/profile_detail.php
+0 61
+http://hotel.staffstarr.com/manager/order_dashboard.php
+0 1403
+91.121.121.43
+0 42
+http://hotel.staffstarr.com/jaxtyres/login.php
+0 601
+http://hotel.staffstarr.com/book_event.php
+0 22
+http://hotel.staffstarr.com/jaxtyres/index.php
+0 5475
+http://hotel.staffstarr.com/register.php
+0 12
+http://hotel.staffstarr.com/manager/ajax.php
+0 6
+http://hotel.staffstarr.com/jaxtyres/my_orders.php
+0 167
+http://hotel.staffstarr.com/jaxtyres/Autoparts - Multipurpose Responsive HTML5 Template_files/home2.css
+0 648
+http://hotel.staffstarr.com/manager/membership.php
+0 1111
+http://hotel.staffstarr.com/manager/index.php
+0 288
+http://hotel.staffstarr.com/jaxtyres
+0 21
+http://hotel.staffstarr.com
+0 13
+http://hotel.staffstarr.com/manager/sale_register.php
+0 2040
+http://hotel.staffstarr.com/jaxtyres/autoparts_view_cart.php
+0 1634
+http://hotel.staffstarr.com/draganddropimage/
+0 23
+http://hotel.staffstarr.com/order_history.php
+0 188
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 897
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+0 701
+Mozilla/5.0 (Linux; U; Android 8.1.0; en-in; Redmi Y2 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko)
+0 2
+WhatsApp/2.19.274 A
+0 10
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 109
+WhatsApp/0.3.5149 N
+0 3
+Mozilla/5.0 (Linux; Android 9; vivo 1804) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36
+0 67
+WhatsApp/0.3.4941 N
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.1
+0 101
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
+0 35553
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 42
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 142
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Cortana 1.11.6.17763; 10.0.0.0.17763.864) AppleWebKit/537.36 (KHTML, like Gecko) Ch
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; Redmi Y2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36
+0 38
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 7114
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Saf
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 3491
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+0 16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 9; RMX1851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36
+0 178
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 152
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 60
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 36
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 280
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3860.5 Safari/537.36
+0 41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 54
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:70.0) Gecko/20100101 Firefox/70.0
+0 1395
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 
+0 2
+Safari/15608.2.30.1.1 CFNetwork/1111 Darwin/19.0.0 (x86_64)
+0 28
+Mozilla/5.0 (Linux; Android 9; vivo 1804) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36
+0 38
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+0 88
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
+0 631
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
+0 143
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E14
+0 5
+Mozilla/5.0 (iPad; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/
+0 130
+Mozilla/5.0 (Linux; Android 9; vivo 1804 Build/PKQ1.180819.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.8
+0 53
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

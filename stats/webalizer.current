@@ -1,0 +1,291 @@
+# Webalizer V2.23-08 Incremental Data - 11/25/2020 17:51:49
+2020 11 25 17 51 49
+1134 900 13 41 15 10 5146572 823 42 0 0 0
+2 15 211 9 25
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+368 312 2814593 7 233 12 0 0
+751 573 2272337 7 575 28 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+15 15 59642 2 15 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+87 72 232739 70 0 0
+109 76 240772 85 0 0
+226 182 1078932 166 0 0
+332 252 1642375 208 0 0
+0 0 0 0 0 0
+288 240 1529725 219 0 0
+1 1 2294 1 0 0
+17 13 14608 17 0 0
+74 64 405127 57 0 0
+0
+0
+0
+900
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+9
+0
+0
+0
+0
+0
+0
+192
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+31
+0
+0
+0
+0
+0
+# -urls- 
+/assets/img/logo-light.svg
+0 10 0 25748 0 0 0 0
+/assets/img/favicon_152x152.png
+1 1 0 4441 0 0 0 0
+/register.php
+0 1 0 6879 0 0 0 0
+/assets/img/photos/menu-title-burgers.jpg
+1 6 0 748837 0 0 0 0
+/assets/plugins/jquery/dist/jquery.min.js
+0 5 0 152377 0 0 0 0
+/login.php
+0 5 0 34290 0 0 0 0
+/ajax.php
+0 533 0 624801 24 24 0 0
+/assets/fonts/themify9f24.woff
+0 5 0 281955 0 0 0 0
+/assets/img/logo-horizontal-dark.svg
+0 9 0 21826 0 0 0 0
+/assets/img/photos/bg-restaurant.jpg
+1 1 0 338916 0 0 0 0
+/assets/plugins/slick-carousel/slick/slick.css
+0 4 0 3507 0 0 0 0
+/assets/img/photos/modal-review.jpg
+1 1 0 12664 0 0 0 0
+/assets/plugins/tether/dist/js/tether.min.js
+0 5 0 39272 0 0 0 0
+/assets/plugins/slick-carousel/slick/slick.min.js
+0 6 0 63037 0 0 0 0
+/assets/plugins/animsition/dist/css/animsition.min.css
+0 4 0 10276 0 0 0 0
+/assets/plugins/jquery.localscroll/jquery.localScroll.min.js
+0 5 0 5706 0 0 0 0
+/view_cart.php
+0 57 0 388925 4 0 0 0
+/assets/plugins/jquery.mb.ytplayer/dist/jquery.mb.YTPlayer.min.js
+0 5 0 62341 0 0 0 0
+/assets/plugins/twitter-fetcher/js/twitterFetcher_min.js
+0 7 0 19512 0 0 0 0
+/assets/css/themify-icons.css
+0 4 0 13187 0 0 0 0
+/order_history.php
+0 2 0 11828 0 0 0 0
+/assets/plugins/jquery.appear/jquery.appear.js
+0 5 0 8991 0 0 0 0
+/assets/js/core.js
+0 5 0 25131 0 0 0 0
+/assets/plugins/jquery-validation/dist/jquery.validate.min.js
+0 5 0 38906 0 0 0 0
+/manager/ajax.php
+0 25 0 11387 0 0 0 0
+/assets/plugins/animate.css/animate.min.css
+0 4 0 17104 0 0 0 0
+/assets/plugins/bootstrap/dist/css/bootstrap.min.css
+0 4 0 81413 0 0 0 0
+/assets/plugins/jquery.scrollto/jquery.scrollTo.min.js
+0 5 0 8156 0 0 0 0
+/assets/img/favicon.png
+1 9 0 12251 0 0 0 0
+/assets/img/photos/dropdown-about.jpg
+1 9 0 352105 0 0 0 0
+/assets/plugins/font-awesome/css/font-awesome.min.css
+0 4 0 29531 0 0 0 0
+/assets/plugins/bootstrap/dist/js/bootstrap.min.js
+0 6 0 74204 0 0 0 0
+/assets/plugins/animsition/dist/js/animsition.min.js
+0 4 0 9244 0 0 0 0
+/
+0 115 0 1043524 7 2 0 0
+/book_event.php
+0 1 0 8360 0 0 0 0
+/assets/plugins/font-awesome/fonts/fontawesome-webfont3e6e.woff2
+0 4 0 309629 0 0 0 0
+/assets/css/themes/theme-beige.min.css
+0 4 0 59440 0 0 0 0
+/order_submitted.php
+0 6 0 31800 1 0 0 0
+/manager/
+0 11 0 25155 1 1 0 0
+/order_success.php
+0 2 0 9222 0 0 0 0
+/assets/plugins/skrollr/dist/skrollr.min.js
+0 5 0 29371 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+51.79.157.48
+0 2 1 1171 1 1604964833 0 0
+/ajax.php
+106.207.247.7
+0 45 39 607836 1 1604946983 0 0
+/ajax.php
+139.99.150.45
+0 397 387 342754 22 1606326714 0 0
+/ajax.php
+47.247.99.147
+0 197 125 971190 2 1605032756 0 0
+/view_cart.php
+66.249.88.120
+0 1 1 2223 1 1605029733 0 0
+/view_cart.php
+106.208.172.29
+0 40 28 490022 1 1604954668 0 0
+/view_cart.php
+27.62.246.112
+0 149 84 418213 3 1605032453 0 0
+/manager/ajax.php
+47.8.139.131
+0 7 7 56476 1 1606326709 0 0
+/view_cart.php
+106.207.208.24
+0 64 52 132261 2 1604964209 0 0
+/ajax.php
+220.233.85.176
+0 156 127 1747308 6 1605032336 0 0
+/manager/ajax.php
+27.62.238.186
+0 72 45 357092 1 1605040950 0 0
+/
+66.249.88.124
+0 2 2 14450 1 1605029765 0 0
+/
+195.74.76.194
+0 2 2 5576 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+139.99.150.45
+0 8 8 3166 1 1606326714 0 0
+/ajax.php
+47.8.139.131
+0 7 7 56476 1 1606326709 0 0
+/view_cart.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://hotel.staffstarr.com/order_success.php
+0 3
+http://hotel.staffstarr.com/index.php
+0 199
+http://hotel.staffstarr.com/manager/
+0 30
+http://hotel.staffstarr.com/
+0 168
+http://hotel.staffstarr.com/order_submitted.php
+0 17
+http://hotel.staffstarr.com/login.php
+0 17
+- (Direct Request)
+0 575
+http://hotel.staffstarr.com/ajax.php
+0 3
+http://hotel.staffstarr.com/assets/css/themify-icons.css
+0 4
+http://hotel.staffstarr.com/view_cart.php
+0 97
+http://hotel.staffstarr.com/assets/plugins/font-awesome/css/font-awesome.min.css
+0 3
+http://hotel.staffstarr.com/book_event.php
+0 4
+http://hotel.staffstarr.com/register.php
+0 5
+http://hotel.staffstarr.com/manager/index.php
+0 1
+http://hotel.staffstarr.com/order_history.php
+0 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 36
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3882.0 Safari/537.36
+0 2
+WhatsApp/2.20.197.20 A
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:82.0) Gecko/20100101 Firefox/82.0
+0 120
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+0 64
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+0 368
+WhatsApp/2.20.197.17 A
+0 7
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+0 133
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 Google (+https://dev
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
